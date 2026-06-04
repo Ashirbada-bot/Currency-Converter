@@ -13,7 +13,7 @@ A simple Java-based Currency Converter application.
 - Scanner Class
 
 ## Screenshot
-[Output](Output.png)
+![Output](Output.png)
 
 ## Author
 Ashirbada Behera
