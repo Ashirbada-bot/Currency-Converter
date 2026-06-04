@@ -13,4 +13,4 @@ A simple Java-based Currency Converter application.
 - Scanner Class
 
 ## Screenshot
-![Output](screenshot.png)
+![Output](Screenshots.png)
