@@ -14,3 +14,14 @@ A simple Java-based Currency Converter application.
 
 ## Screenshot
 [Output](Output.png)
+
+## Author
+Ashirbada Behera
+
+## Project Type
+Java Console Application
+
+## Future Improvements
+- Add more currencies
+- Fetch live exchange rates
+- Create a GUI version using Java Swing or JavaFX
